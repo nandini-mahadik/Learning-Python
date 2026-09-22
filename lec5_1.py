@@ -18,4 +18,5 @@
 # while i <= 10:
 #     print(x*i)
 #     i += 1
-    
+
+#Print the elements of the following list using loop 
