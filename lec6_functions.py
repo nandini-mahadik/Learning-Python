@@ -42,3 +42,14 @@ def convert(num):
 
 convert(5)
 convert(19)
+
+
+#write a function witch will take any number as a input and will return is it odd or even
+def example(n):
+    if(n%2==0):
+        print("Even")
+    else:
+        print("Odd")
+example(5)
+example(7)
+example(4)
